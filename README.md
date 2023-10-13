@@ -1,2 +1,3 @@
-# ww1.myviid.com
+# 
+http://scib.azhar.com/
 ## sub domain take over by mahmod 
